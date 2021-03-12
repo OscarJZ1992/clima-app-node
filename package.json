@@ -1,0 +1,19 @@
+{
+  "name": "clima-app",
+  "version": "0.0.1",
+  "description": "aplicacion de clima",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarJZ1992/clima-app-node.git"
+  },
+  "author": "Oscar jiménez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarJZ1992/clima-app-node/issues"
+  },
+  "homepage": "https://github.com/OscarJZ1992/clima-app-node#readme"
+}
