@@ -4,7 +4,8 @@
   "description": "aplicacion de clima",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/OscarJZ1992/clima-app-node/issues"
   },
-  "homepage": "https://github.com/OscarJZ1992/clima-app-node#readme"
+  "homepage": "https://github.com/OscarJZ1992/clima-app-node#readme",
+  "dependencies": {
+    "axios": "0.21.1",
+    "colors": "1.4.0",
+    "dotenv": "8.2.0",
+    "inquirer": "8.0.0",
+    "uuid": "8.3.2"
+  }
 }
